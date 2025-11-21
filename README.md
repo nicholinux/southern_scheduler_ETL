@@ -1,2 +1,2 @@
 # SouthernScheduler
-A web application that serves a course scheduling tool for students at Georgia Southern.
+A webscraper that retrieves data for the Southern Scheduler website.
